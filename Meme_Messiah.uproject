@@ -15,6 +15,10 @@
 		{
 			"Name": "ChaosNiagara",
 			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
